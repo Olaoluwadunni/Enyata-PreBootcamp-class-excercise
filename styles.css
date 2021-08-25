@@ -1,0 +1,14 @@
+/* body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+input   {
+    margin-top: 10px;
+}
+select  {
+    margin-top: 10px;
+}
+label .level  {
+    margin-top: 10px;
+}
